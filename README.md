@@ -6,6 +6,6 @@ The method can be used on any corpora of text and on any key words to track the 
 It contains three notebooks:
 1) A web scraper that downloads Danske Bank's PDF Reports
 2) A conversion tool from PDF to txt.
-3) A notebook containing the implemenation of Word Evolution
+3) A notebook containing the implementation of Word Evolution
 
 
