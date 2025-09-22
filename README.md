@@ -8,4 +8,4 @@ It contains three notebooks:
 2) A conversion tool from PDF to txt.
 3) A notebook containing the implementation of Word Evolution
 
-![Evolution of the word Uncertainty][Word_Evolution_Uncertainty.png]
+![Evolution of the word Uncertainty](Word_Evolution_Uncertainty.png)
