@@ -8,4 +8,6 @@ It contains three notebooks:
 2) A conversion tool from PDF to txt.
 3) A notebook containing the implementation of Word Evolution
 
+### The figure below demonstrates how the context of the word 'uncertainty' changes over time in Danske Banks reports.
+
 ![Evolution of the word Uncertainty](./Word_evolution_uncertainty.png)
